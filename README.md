@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josephbertino
-- 👀 I’m interested in visual collages, sound collages, musical mashups... you get the idea
+- 👀 I’m interested in visual collages, sound collages, musical mashups, and creative coding
 - 🌲 I enjoy coding in Python
 - 📫 How to reach me:
   - email: joseph.bertino@gmail.com
