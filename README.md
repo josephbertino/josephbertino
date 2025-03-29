@@ -3,7 +3,7 @@
 - 🌲 I enjoy coding in Python
 - 📫 How to reach me:
   - email: joseph.bertino@gmail.com
-  - insta: @yetixhunting
+  - insta: @joe___be
 
 <!---
 josephbertino/josephbertino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
